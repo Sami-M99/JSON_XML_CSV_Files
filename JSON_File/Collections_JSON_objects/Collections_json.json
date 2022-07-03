@@ -1,0 +1,85 @@
+[
+  {
+    "teacher": [
+      {
+        "id": 1,
+        "fullName": "Zafer CÖMERT",
+        "salary": 2000,
+        "title": "Lecture"
+      },
+      {
+        "id": 2,
+        "fullName": "Gustavo Torp",
+        "salary": 15000,
+        "title": "Lecture"
+      },
+      {
+        "id": 3,
+        "fullName": "Andres Waters",
+        "salary": 15000,
+        "title": "Senior Marketing Administrator"
+      },
+      {
+        "id": 4,
+        "fullName": "Mandy Skiles",
+        "salary": 529,
+        "title": "Investor Marketing Developer"
+      },
+      {
+        "id": 5,
+        "fullName": "Laura Farrell",
+        "salary": 491,
+        "title": "Regional Marketing Specialist"
+      },
+      {
+        "id": 6,
+        "fullName": "Frederick Kreiger",
+        "salary": 489,
+        "title": "Central Intranet Designer"
+      },
+      {
+        "id": 7,
+        "fullName": "Michele Braun",
+        "salary": 703,
+        "title": "Senior Data Administrator"
+      },
+      {
+        "id": 8,
+        "fullName": "Irving Prosacco",
+        "salary": 460,
+        "title": "International Markets Developer"
+      },
+      {
+        "id": 9,
+        "fullName": "Jose Schroeder",
+        "salary": 831,
+        "title": "Human Marketing Representative"
+      },
+      {
+        "id": 10,
+        "fullName": "Cora Kshlerin",
+        "salary": 515,
+        "title": "Lead Group Assistant"
+      }
+    ],
+
+    "Student": [
+      {
+        "Id": 1,
+        "Name": "Ali",
+        "Class": 10
+      },
+      {
+        "Id": 2,
+        "Name": "Mohammed",
+        "Class": 7
+      },
+      {
+        "Id": 3,
+        "Name": "Saleh",
+        "Class": 12
+      }
+    ]
+
+  }
+]
